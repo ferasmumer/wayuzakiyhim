@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ويزكيهم</string>
+    <string name="hello"> مرحبا بك </string>
+    <string name="user_name">اسم المستخدم </string>
+    <string name="passward">كلمة المرور</string>
+    <string name="forgetpassward">نسيت كلمة المرور؟</string>
+    <string name="login">تسجيل</string>
+    <string name="new_user"> مستخدم جديد ؟ تسجيل الدخول </string>
+
+</resources>

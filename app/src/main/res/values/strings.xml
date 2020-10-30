@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wayuzakiyhim</string>
+    <string name="hello"> Hello </string>
+    <string name="user_name">User name</string>
+    <string name="passward">passward</string>
+    <string name="forgetpassward">forget passward</string>
+    <string name="login">login</string>
+    <string name="new_user">new user? sign up</string>
+</resources>
